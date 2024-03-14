@@ -1,0 +1,8 @@
+C:\Users\Alunos\source\repos\Logincinin\Logincinin\obj\Debug\Logincinin.csproj.AssemblyReference.cache
+C:\Users\Alunos\source\repos\Logincinin\Logincinin\obj\Debug\Logincinin.UserControl1.resources
+C:\Users\Alunos\source\repos\Logincinin\Logincinin\obj\Debug\Logincinin.csproj.GenerateResource.cache
+C:\Users\Alunos\source\repos\Logincinin\Logincinin\obj\Debug\Logincinin.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\source\repos\Logincinin\Logincinin\bin\Debug\Logincinin.dll
+C:\Users\Alunos\source\repos\Logincinin\Logincinin\bin\Debug\Logincinin.pdb
+C:\Users\Alunos\source\repos\Logincinin\Logincinin\obj\Debug\Logincinin.dll
+C:\Users\Alunos\source\repos\Logincinin\Logincinin\obj\Debug\Logincinin.pdb
